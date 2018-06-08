@@ -1,3 +1,3 @@
-export function convert(value, fromUnit) {
-
+export function convert(value, fromUnit, toUnit) {
+  return 0;
 }
